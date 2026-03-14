@@ -24,8 +24,6 @@ To run these programs on your local machine, follow these steps:
     ```bash
     python <python-program>.py
     ```
-    *(Note: Replace `<filename>.py` with the actual name of the file you want to execute, for example, `python calculator.py`)*
-
 ## 🛠️ Prerequisites
 
 * Python 3.x installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
