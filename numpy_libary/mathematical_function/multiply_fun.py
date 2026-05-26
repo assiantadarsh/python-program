@@ -1,0 +1,5 @@
+# np.multiply()
+# Use ->  Divide two arrays element by element
+a1 = np.array([1,2,3,4,5])
+a2 = np.array([3,4,5,6,7])
+print(np.multiply(a1,a2))
