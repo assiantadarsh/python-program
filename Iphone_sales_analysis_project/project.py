@@ -5,7 +5,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-
+# Download Data set using this link -> https://www.kaggle.com/datasets/komalkhetlani/apple-iphone-data
 # Load dataset
 df = pd.read_csv("/content/archive (2).zip")
 
